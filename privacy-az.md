@@ -1,8 +1,8 @@
 ---
-title: Tuklu — Məxfilik Siyasəti
+title: Kaqu — Məxfilik Siyasəti
 ---
 
-# Tuklu — Məxfilik Siyasəti
+# Kaqu — Məxfilik Siyasəti
 
 Azərbaycan dilində · [English](privacy.html)
 
@@ -10,8 +10,8 @@ Son yenilənmə: 7 oktyabr 2026
 
 ## 1. Biz kimik
 
-Tuklu tətbiqini fərdi developer **Turan Şükürbəyli** idarə edir və aşağıda göstərilən şəxsi məlumatların operatorudur. Məxfilik sualları və müraciətlər üçün əlaqə: **tshukurbeyli@gmail.com**.
-Tuklu Azərbaycanda ev heyvanı sahibləri üçün icma tətbiqidir: heyvanlara cüt tapmaq, baxıcılar və otellər, baytarlar, övladlığa götürmə və satış elanları.
+Kaqu tətbiqini fərdi developer **Turan Şükürbəyli** idarə edir və aşağıda göstərilən şəxsi məlumatların operatorudur. Məxfilik sualları və müraciətlər üçün əlaqə: **tshukurbeyli@gmail.com**.
+Kaqu Azərbaycanda ev heyvanı sahibləri üçün icma tətbiqidir: heyvanlara cüt tapmaq, baxıcılar və otellər, baytarlar, övladlığa götürmə və satış elanları.
 
 ## 2. Nələri toplayırıq
 
@@ -58,7 +58,7 @@ Məlumatlarınızı hesabınız mövcud olduğu müddətdə saxlayırıq. Hesab�
 
 ## 7. Yaş
 
-Tuklu **18 yaşdan yuxarı** şəxslər üçündür və uşaqlara yönəlməyib. 18 yaşdan kiçik şəxsin məlumatlarını bilərəkdən toplamırıq; uşağın tətbiqdən istifadə etdiyini düşünürsünüzsə, bizə yazın, hesabı siləcəyik.
+Kaqu **18 yaşdan yuxarı** şəxslər üçündür və uşaqlara yönəlməyib. 18 yaşdan kiçik şəxsin məlumatlarını bilərəkdən toplamırıq; uşağın tətbiqdən istifadə etdiyini düşünürsünüzsə, bizə yazın, hesabı siləcəyik.
 
 ## 8. İstifadəçi məzmunu və təhlükəsizlik
 

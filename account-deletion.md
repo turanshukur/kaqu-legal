@@ -1,16 +1,16 @@
 ---
-title: Tuklu — Delete your account and data
+title: Kaqu — Delete your account and data
 ---
 
-# Tuklu — Delete your account and data
+# Kaqu — Delete your account and data
 
 [Azərbaycan dilində](account-deletion-az.html) · English
 
-This page explains how to delete your Tuklu account and the data linked to it.
+This page explains how to delete your Kaqu account and the data linked to it.
 
 ## In the app (fastest)
 
-1. Open Tuklu and sign in.
+1. Open Kaqu and sign in.
 2. Go to **Profile → Delete account** and confirm.
 
 This permanently removes your profile, your pets, your listings, your messages, your bookings and reviews, your favourites and the photos you uploaded. It cannot be undone.

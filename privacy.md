@@ -1,8 +1,8 @@
 ---
-title: Tuklu — Privacy Policy
+title: Kaqu — Privacy Policy
 ---
 
-# Tuklu — Privacy Policy
+# Kaqu — Privacy Policy
 
 [Azərbaycan dilində](privacy-az.html) · English
 
@@ -10,8 +10,8 @@ Last updated: 7 October 2026
 
 ## 1. Who we are
 
-Tuklu is operated by **Turan Shukurbayli** (an individual developer), the operator of the personal data described below. Contact for privacy questions and requests: **tshukurbeyli@gmail.com**.
-Tuklu is a community app for pet owners in Azerbaijan: finding mates for pets, pet sitters and hotels, veterinarians, and adoption / sale listings.
+Kaqu is operated by **Turan Shukurbayli** (an individual developer), the operator of the personal data described below. Contact for privacy questions and requests: **tshukurbeyli@gmail.com**.
+Kaqu is a community app for pet owners in Azerbaijan: finding mates for pets, pet sitters and hotels, veterinarians, and adoption / sale listings.
 
 ## 2. What we collect
 
@@ -58,7 +58,7 @@ We keep your data while your account exists. When you delete your account (**Pro
 
 ## 7. Age
 
-Tuklu is for people aged **18 and over** and is not directed to children. We do not knowingly collect data from anyone under 18; if you believe a child has used the app, write to us and we will delete the account.
+Kaqu is for people aged **18 and over** and is not directed to children. We do not knowingly collect data from anyone under 18; if you believe a child has used the app, write to us and we will delete the account.
 
 ## 8. User content and safety
 

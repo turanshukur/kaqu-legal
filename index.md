@@ -1,8 +1,8 @@
 ---
-title: Tuklu
+title: Kaqu
 ---
 
-# Tuklu
+# Kaqu
 
 A community app for pet owners in Azerbaijan: mates, pet sitters and hotels, veterinarians, and adoption / sale listings.
 Azərbaycanda ev heyvanı sahibləri üçün icma tətbiqi.

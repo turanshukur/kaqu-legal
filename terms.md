@@ -1,8 +1,8 @@
 ---
-title: Tuklu — Terms of Use
+title: Kaqu — Terms of Use
 ---
 
-# Tuklu — Terms of Use
+# Kaqu — Terms of Use
 
 [Azərbaycan dilində](terms-az.html) · English
 
@@ -10,7 +10,7 @@ Last updated: 7 October 2026
 
 ## 1. The service
 
-Tuklu is a community app for pet owners in Azerbaijan: finding mates for pets, pet sitters and hotels, veterinarians, and adoption / sale listings.
+Kaqu is a community app for pet owners in Azerbaijan: finding mates for pets, pet sitters and hotels, veterinarians, and adoption / sale listings.
 It connects people; the services, animals and prices are offered by the users and providers themselves. The operator, Turan Shukurbayli, is not a party to agreements between users and providers and does not process payments in the app.
 
 ## 2. Your account

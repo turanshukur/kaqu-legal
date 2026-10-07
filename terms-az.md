@@ -1,8 +1,8 @@
 ---
-title: Tuklu — İstifadə Şərtləri
+title: Kaqu — İstifadə Şərtləri
 ---
 
-# Tuklu — İstifadə Şərtləri
+# Kaqu — İstifadə Şərtləri
 
 Azərbaycan dilində · [English](terms.html)
 
@@ -10,7 +10,7 @@ Son yenilənmə: 7 oktyabr 2026
 
 ## 1. Xidmət
 
-Tuklu Azərbaycanda ev heyvanı sahibləri üçün icma tətbiqidir: heyvanlara cüt tapmaq, baxıcılar və otellər, baytarlar, övladlığa götürmə və satış elanları.
+Kaqu Azərbaycanda ev heyvanı sahibləri üçün icma tətbiqidir: heyvanlara cüt tapmaq, baxıcılar və otellər, baytarlar, övladlığa götürmə və satış elanları.
 O, insanları bir-biri ilə əlaqələndirir; xidmətləri, heyvanları və qiymətləri istifadəçilərin və təchizatçıların özləri təklif edir. Operator Turan Şükürbəyli istifadəçilər və təchizatçılar arasındakı müqavilələrin tərəfi deyil və tətbiqdə ödənişləri emal etmir.
 
 ## 2. Hesabınız

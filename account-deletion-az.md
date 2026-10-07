@@ -1,16 +1,16 @@
 ---
-title: Tuklu — Hesabınızı və məlumatlarınızı silin
+title: Kaqu — Hesabınızı və məlumatlarınızı silin
 ---
 
-# Tuklu — Hesabınızı və məlumatlarınızı silin
+# Kaqu — Hesabınızı və məlumatlarınızı silin
 
 Azərbaycan dilində · [English](account-deletion.html)
 
-Bu səhifə Tuklu hesabınızı və ona bağlı məlumatları necə siləcəyinizi izah edir.
+Bu səhifə Kaqu hesabınızı və ona bağlı məlumatları necə siləcəyinizi izah edir.
 
 ## Tətbiqdə (ən sürətli)
 
-1. Tuklu-nu açın və daxil olun.
+1. Kaqu-nu açın və daxil olun.
 2. **Profil → Hesabı sil** bölməsinə keçin və təsdiq edin.
 
 Bu, profilinizi, heyvanlarınızı, elanlarınızı, mesajlarınızı, rezervasiyalarınızı və rəylərinizi, seçilmişlərinizi və yüklədiyiniz şəkilləri həmişəlik silir. Geri qaytarmaq olmur.
